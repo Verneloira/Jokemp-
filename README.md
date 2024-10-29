@@ -3,7 +3,9 @@
 <br>
 <br>
 <h2>Esse foi um projeto bacana que aprendi no <a href= "https//rodolfomori.com.br/devclub">DevClub</a></h2>
-
+<br>
+<h2>Esse é um projeto de jogo que acumula pontos e pode haver um ganhador ,empate ou perdedor ,um jogo que nos arremete nossa infância </h2>
+<br>
 <h2>Tecnologias utilizadas</h2>
 <br>
 <p>- HTML</p>
