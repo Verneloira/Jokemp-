@@ -10,4 +10,4 @@
 <p>-CSS</p>
 <p>-JS</p>
 
-img alt=https://github.com/Verneloira/Jokemp-/blob/main/jokenp%C3%B4%20desktop.png
+<img alt=https://github.com/Verneloira/Jokemp-/blob/main/jokenp%C3%B4%20desktop.png>
