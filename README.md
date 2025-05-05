@@ -8,5 +8,6 @@
 -<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 -<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <h3>desktop e mobile</h3>
-<img src="https://github.com/Verneloira/Jokemp-/blob/main/assets/desktop%20jokenpo2.png">
-<img src=""
+<img src="https://github.com/Verneloira/Jokemp-/blob/main/assets/desktop%20jokenpo2.png"/>
+<br>
+<img src=https://github.com/Verneloira/Jokemp-/blob/main/assets/mobile%20jokenpo2.png"/>
