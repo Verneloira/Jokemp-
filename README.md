@@ -10,4 +10,4 @@
 <h3>desktop e mobile</h3>
 <img src="https://github.com/Verneloira/Jokemp-/blob/main/assets/desktop%20jokenpo2.png"/>
 <br>
-<img src=https://github.com/Verneloira/Jokemp-/blob/main/assets/mobile%20jokenpo2.png"/>
+<img src="https://github.com/Verneloira/Jokemp-/blob/main/assets/mobile%20jokenpo2.png"/>
