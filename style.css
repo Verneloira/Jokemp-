@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -5,14 +6,15 @@
 }
 
 body {
-    background: url("https://img.freepik.com/fotos-premium/um-ringue-de-boxe-com-um-anel-no-centro-e-uma-luz-na-parede_9493-2725.jpg?w=1060");
+    background: url("./ringue\ jokenpo3.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-
-
+    width: 100vw;
 }
 
 .container {
@@ -23,7 +25,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
 }
 
 .buttons {
@@ -45,7 +46,6 @@ button:hover {
     opacity: 0.7;
 }
 
-
 #rock {
     background-color: #a200ff;
 }
@@ -64,9 +64,59 @@ p {
 }
 
 .your-score span {
-    color: rgb(3, 20, 165)
+    color: rgb(3, 20, 165);
 }
 
 .machine-score span {
     color: rgb(253, 1, 1);
+}
+
+/* Responsividade */
+@media (max-width: 1024px) {
+    .buttons {
+        gap: 30px;
+    }
+
+    button {
+        font-size: 40px;
+        padding: 8px;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+
+    .container {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .buttons {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    button {
+        font-size: 35px;
+        padding: 7px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .buttons {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    button {
+        font-size: 30px;
+        padding: 6px;
+    }
 }
